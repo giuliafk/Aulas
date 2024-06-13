@@ -9,3 +9,7 @@
 .direita{
     text-align: right;
 }
+.cor-solida{
+    background-color: rgb(41, 81, 228);
+    color:black
+}
